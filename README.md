@@ -1,22 +1,22 @@
 # LLM Bots that run in Discord servers
 
-## TODO
+## Features
 
-[ ] Summary of conversation
+[] Summary of conversation
 
-[ ] Private conversations
+[] Private conversations
 
-[ ] Active/passive modes (active: respond to all messages, passive: only respond to mentions)
+[] Active/passive modes (active: respond to all messages, passive: only respond to mentions)
 
-[ ] Know whether it should weigh in
+[] Know whether it should weigh in
 
-[ ] Remind people of things
+[] Remind people of things
 
-[ ] Read websites
+[] Read websites
 
-[ ] Generate images
+[] Generate images
 
-[ ] Join audio conversations
+[] Join audio conversations
 
 ## To Add the Bot to your Server
 
